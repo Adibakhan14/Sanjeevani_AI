@@ -63,8 +63,8 @@ Key features include:
 
 ## 🔗 Try It Out / Project Links  
  
-- [GitHub Repository](https://github.com/Adibakhan14/Sanjeevani-AI)  
-- [Pitch Deck (PDF)](https://github.com/Adibakhan14/Sanjeevani-AI/blob/main/pitch-deck.pdf)
+- [GitHub Repository](https://github.com/Adibakhan14/Sanjeevani_AI)  
+- [Pitch Deck (PDF)](https://github.com/Adibakhan14/Sanjeevani_AI/blob/main/pitch-deck.pdf)
 
 ---
 
