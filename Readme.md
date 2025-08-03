@@ -1,6 +1,6 @@
 # Sanjeevani AI 🌿  
 **AI-Powered Lifeline for Thalassemia Patients**  
-By Adiba Khan 
+By Adiba Khan & Khushi Chadokar
 
 ---
 
